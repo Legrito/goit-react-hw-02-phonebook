@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.8b62099d.chunk.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.0ebf7b4d.chunk.js",
-    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.0ebf7b4d.chunk.js.map",
+    "main.css": "/goit-react-hw-02-phonebook/static/css/main.3f40fb64.chunk.css",
+    "main.js": "/goit-react-hw-02-phonebook/static/js/main.c16669df.chunk.js",
+    "main.js.map": "/goit-react-hw-02-phonebook/static/js/main.c16669df.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-02-phonebook/static/js/runtime-main.4ed8621a.js",
     "runtime-main.js.map": "/goit-react-hw-02-phonebook/static/js/runtime-main.4ed8621a.js.map",
     "static/js/2.a795c319.chunk.js": "/goit-react-hw-02-phonebook/static/js/2.a795c319.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.e839026b.chunk.js": "/goit-react-hw-02-phonebook/static/js/3.e839026b.chunk.js",
     "static/js/3.e839026b.chunk.js.map": "/goit-react-hw-02-phonebook/static/js/3.e839026b.chunk.js.map",
     "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "static/css/main.8b62099d.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.8b62099d.chunk.css.map",
+    "static/css/main.3f40fb64.chunk.css.map": "/goit-react-hw-02-phonebook/static/css/main.3f40fb64.chunk.css.map",
     "static/js/2.a795c319.chunk.js.LICENSE.txt": "/goit-react-hw-02-phonebook/static/js/2.a795c319.chunk.js.LICENSE.txt",
     "static/media/App.css": "/goit-react-hw-02-phonebook/static/media/free-iphone-6-pattern-4-vector.6964750c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4ed8621a.js",
     "static/js/2.a795c319.chunk.js",
-    "static/css/main.8b62099d.chunk.css",
-    "static/js/main.0ebf7b4d.chunk.js"
+    "static/css/main.3f40fb64.chunk.css",
+    "static/js/main.c16669df.chunk.js"
   ]
 }
